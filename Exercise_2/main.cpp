@@ -18,10 +18,5 @@ int main()
         return 4;
     }
 
-
-
-    //cout<<mesh.NumberOfCell2Ds<<endl;
-
-
     return 0;
 }
